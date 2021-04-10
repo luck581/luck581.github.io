@@ -1,10 +1,4 @@
-  <?php 
-  echo 'RUNOOB'
-  function test(){
-    echo 'test';
-  }
-  
-  ```javascript
+   ```javascript
 $(document).ready(function () {
     alert('RUNOOB');
 });
