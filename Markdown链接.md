@@ -4,5 +4,5 @@
 这个链接用 runoob 作为网址变量 [Runoob][runoob]
 然后在文档的结尾为变量赋值（网址）
 
-  [1]: http://www.google.com/
+  [1]: http://www.baidu.com/
   [runoob]: http://www.runoob.com/
