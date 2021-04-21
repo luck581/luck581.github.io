@@ -9,7 +9,7 @@
 
 [Markdown-区块链接](https://www.runoob.com/markdown/md-block.html)
 
-[Markdown-代码链接](https://www.runoob.com/markdown/md-code.html)
+[Markdown-代码链接](https://github.com/luck581/luck581.github.io/blob/main/Markdown%E4%BB%A3%E7%A0%81.md)
 
 [Markdown-链接链接](https://www.runoob.com/markdown/md-link.html)
 
